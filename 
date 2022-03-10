@@ -1,0 +1,71 @@
+[33mcommit fb575402a246b019b3782d87733bad81ec32af08[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Thu Mar 10 08:03:17 2022 -0300
+
+    Find movies
+
+[33mcommit 149bfb631319abb9e103314649455291aa4fb292[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Wed Mar 9 22:59:46 2022 -0300
+
+    Domain model, database seed
+
+[33mcommit baf34b5fdeefa3b614835571725d47b805d8d05c[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Wed Mar 9 22:28:02 2022 -0300
+
+    Security config
+
+[33mcommit 3c2b70cd45b1f61060f259befc08d6f434c99bab[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 21:38:03 2022 -0300
+
+    Navigation buttons
+
+[33mcommit ce476e0b114c73e82daa70a87be16ebc16b3b4a0[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 21:29:48 2022 -0300
+
+    MovieCard
+
+[33mcommit 6625831f2989eb05d82b2b6cd2d20ec2ae55f541[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 20:49:08 2022 -0300
+
+    Pagination layout
+
+[33mcommit 58bda1c737f34504e23e21e7a5bdda5657ab3548[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 20:39:29 2022 -0300
+
+    Form layout
+
+[33mcommit aee3eb40d716897e517b0a830290126e1a263845[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 20:29:07 2022 -0300
+
+    Routes
+
+[33mcommit fb4ad42345981e10ea58da0596c07e595d5b91bc[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 09:02:56 2022 -0300
+
+    Navbar
+
+[33mcommit aa15375c1db229788d861b8a8c8b65f73aaf3e13[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 08:12:48 2022 -0300
+
+    Bootstrap
+
+[33mcommit 4d6249427c604ea6e430bf0c68683545eae44b3a[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 08:03:14 2022 -0300
+
+    Projeto clean
+
+[33mcommit b550341af4206ed51964761691673b859af3a26d[m
+Author: Marcos Antonio Ribeiro <maribeiro9600@gmail.com>
+Date:   Tue Mar 8 07:48:13 2022 -0300
+
+    Projeto criado
